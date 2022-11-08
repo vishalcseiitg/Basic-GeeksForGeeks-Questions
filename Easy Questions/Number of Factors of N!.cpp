@@ -1,4 +1,4 @@
-/*Given a positive integer N, find the number of factors in N! ( N factorial).*/
+/*Given a positive integer N, find the number of factors in N! (N factorial).*/
 
 //{ Driver Code Starts
 #include<bits/stdc++.h> 
